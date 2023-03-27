@@ -20,7 +20,7 @@ Currently, I work as a Health Insurance Data Analyst II, and I'm specializing in
  <div style="display: inline_block"><br>
  <img align="center" alt="Ba-VSCode" height="30" width="30" src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" title = "VSCode">
  <img align="center" alt="Ba-Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title =  "Python">
- <img align="center" alt="Ba-Jupyter" height="35" width="35" src="https://dimensionless.in/wp-content/uploads/2020/04/1200px-Jupyter_logo.svg_.png" title = "Jupyter Notebook">
+ <img align="center" alt="Ba-Jupyter" height="35" width="30" src="https://dimensionless.in/wp-content/uploads/2020/04/1200px-Jupyter_logo.svg_.png" title = "Jupyter Notebook">
  <img align="center" alt="Ba-GCP" height="30" width="35" src="https://cloudify.co/wp-content/uploads/2018/04/gcp-logo-3-300x276.png" title = "GCP">
  <img align="center" alt="Ba-SQL" height="60" width="60" src="https://pngimg.com/uploads/mysql/mysql_PNG29.png" title = "MySQL">
 </div> 
