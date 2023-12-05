@@ -2,7 +2,7 @@
  
  <h1 align="left">Hi, i'm Barbara Prado! 🤗</h1>
 
-I'm 27 years old and graduated in Mathematics. I've worked as a teacher before, but I changed to a new professional field at the end of 2021. I've been studying data analysis in Python and improving my knowledge in statistics and SQL. Currently, I work as a Health Insurance Data Analyst II, and I'm specializing in Big Data.
+I'm 28 years old and graduated in Mathematics. I've worked as a teacher before, but I changed to a new professional field at the end of 2021. I've been studying data analysis in Python and improving my knowledge in statistics and SQL. Currently, I work as a Health Insurance Data Analyst II, and I'm specializing in Big Data.
 
 <div> 
   <a href="https://www.linkedin.com/in/barbara-rodrigues-prado-58b337137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
