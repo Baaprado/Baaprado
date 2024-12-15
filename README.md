@@ -23,7 +23,7 @@ My goal is to specialize in Data Science and develop skills related to machine l
  <img align="center" alt="Ba-VSCode" height="30" width="30" src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" title = "VSCode">
  <img align="center" alt="Ba-Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title =  "Python">
  <img align="center" alt="Ba-Jupyter" height="35" width="30" src="https://dimensionless.in/wp-content/uploads/2020/04/1200px-Jupyter_logo.svg_.png" title = "Jupyter Notebook">
- <img align="center" alt="Ba-GCP" height="30" width="35" src="[https://www.pngegg.com/pt/png-notnn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imagensempng.com.br%2Flogo-google-cloud-png%2F&psig=AOvVaw2YSIaVH9B8WapaQfNMoE4j&ust=1734373680038000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD59MqzqooDFQAAAAAdAAAAABAJ](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27430%2Fgoogle-cloud&psig=AOvVaw2bz4LSeihI-FWQs0jERMku&ust=1734373819639000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDcoo20qooDFQAAAAAdAAAAABAE)" title = "GCP">
+ <img align="center" alt="Ba-GCP" height="30" width="35" src="https://iconduck.com/icons/27430/google-cloud" title="GCP">
  <img align="center" alt="Ba-SQL" height="60" width="60" src="https://pngimg.com/uploads/mysql/mysql_PNG29.png" title = "MySQL">
 </div> 
 
