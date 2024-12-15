@@ -2,7 +2,11 @@
  
  <h1 align="left">Hi, i'm Barbara Prado! 🤗</h1>
 
-I'm 28 years old and graduated in Mathematics. I've worked as a teacher before, but I changed to a new professional field at the end of 2021. I've been studying data analysis in Python and improving my knowledge in statistics and SQL. Currently, I work as a Health Insurance Data Analyst II, and I'm specializing in Big Data.
+I'm 29 years old, graduated in Mathematics and postgraduate degree in Big Data. I began my professional career as a mathematics teacher and made a career transition into the field of data analytics. I started as an intern and am currently working as a data analyst.
+
+I have experience in SQL, optimizing processes that require cleaner data extractions, as well as experience in data visualization for decision-making and programming in Python. I primarily use tools provided by Google Cloud, such as Big Query, Looker Studio, and Jupyter Notebook via Google Colab.
+
+My goal is to specialize in Data Science and develop skills related to machine learning models, predictive analytics, and more.
 
 <div> 
   <a href="https://www.linkedin.com/in/barbara-rodrigues-prado-58b337137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
