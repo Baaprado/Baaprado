@@ -2,7 +2,7 @@
  
  <h1 align="left">Hi, i'm Barbara Prado! 🤗</h1>
 
-I'm 29 years old, graduated in Mathematics and postgraduate degree in Big Data. I began my professional career as a mathematics teacher and made a career transition into the field of data analytics. I started as an intern and am currently working as a data analyst.
+I'm 30 years old, graduated in Mathematics, postgraduate degree in Big Data and another postgraduate degree in Data Analytics. I began my professional career as a mathematics teacher and made a career transition into the field of data analytics. I started as an intern and am currently working as a data analyst.
 
 I have experience in SQL, optimizing processes that require cleaner data extractions, as well as experience in data visualization for decision-making and programming in Python. I primarily use tools provided by Google Cloud, such as Big Query, Looker Studio, and Jupyter Notebook via Google Colab.
 
